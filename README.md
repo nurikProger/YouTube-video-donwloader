@@ -1,4 +1,4 @@
-# YouTube-video-donwloader
+# YouTube-video-downloader
 An inline app for downloading videos from YouTube
 
 How to use:
